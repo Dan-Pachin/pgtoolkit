@@ -1,0 +1,10 @@
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+prompt_toolkit==3.0.51
+psycopg2==2.9.10
+Pygments==2.19.2
+pytest==8.4.1
+pytest-mock==3.14.1
+questionary==2.1.0
+wcwidth==0.2.13
